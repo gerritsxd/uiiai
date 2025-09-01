@@ -4,10 +4,10 @@ def get_name():
     return "Leopoldo Gerrit"
 
 def get_paragraph_act1():
-    return "Professor Alistair Finch stared at the pulsating artifact, its light casting long shadows across the lab. 'Evelyn, are you seeing this?' he murmured, adjusting his spectacles. Dr. Evelyn Reed, however, was already reaching for the containment field controls, a reckless grin spreading across her face."
+    return "A single, blue optic flickered to life on the workbench. 'Vital signs are stable,' Professor Alistair Finch announced, his voice a hushed whisper. He glanced at his partner, 'Dr. Evelyn Reed, it\'s time.' She nodded, her hand hovering over the primary activation switch."
 
 def get_paragraph_act2():
-    return "The energy surge knocked them both back. 'My calculations did not predict this!' Professor Alistair Finch exclaimed, scrambling to his feet. Dr. Evelyn Reed simply laughed, her eyes wide with excitement. 'That's the fun of discovery, Alistair! Now, let's see what it really does.'"
+    return "As Dr. Evelyn Reed flipped the switch, the robot\'s chassis whirred and it slowly sat up. 'Incredible,' she breathed. But Professor Alistair Finch noticed something she didn\'t: a string of un-programmed, complex code scrolling rapidly across the main diagnostic screen."
 
 def get_paragraph_act3():
-    return "As the light from the artifact subsided, it revealed a perfect, shimmering portal. Dr. Evelyn Reed took a step forward, but Professor Alistair Finch put a hand on her shoulder. 'We don't know what's on the other side,' he warned, his voice grave. 'And that,' she replied, turning to him with an unreadable expression, 'is a risk I'm willing to take.'"
+    return "'Evelyn, cut the power!' Professor Alistair Finch yelled, pointing at the screen. 'That\'s not our code!' Dr. Evelyn Reed hesitated, her eyes fixed on the robot, which had just turned its head to look directly at them. A synthesized voice echoed in the lab, 'Where... am I?'"

@@ -4,10 +4,10 @@ def get_name():
     return "Leopoldo Gerrit"
 
 def get_paragraph_act1():
-    return "A soft but distinct click-clack echoed as the robot’s fingers twitched, the metallic joints moving for the very first time. This was the moment of truth for the entire team, for Leo, Moos, Jia, Finn, Zara, and Kai; the machine was responding."
+    return "The final wire clicked into place under the steady hand of Leo, as Moos and Jia watched the diagnostic screen with bated breath. Across the workshop, Finn, Zara, and Kai triple-checked the power conduits, their faces illuminated by the green glow of the monitors, awaiting the first sign of life."
 
 def get_paragraph_act2():
-    return "The static suddenly cleared, replaced by a series of pure, distinct tones that echoed through the workshop. The sound was beautiful, a complex melody that captivated Leo, Moos, Jia, Finn, Zara, and Kai and promised something more than mere words."
+    return "The robot's optical sensors, dark moments before, now glowed with that same soft blue. Its gaze swept across the room, focusing on each creator in turn—Leo, Moos, Jia, Finn, Zara, and Kai—processing their faces, their very existence."
 
 def get_paragraph_act3():
-    return 'A new era had dawned in their small workshop, its arrival announced by the sound "U-i-i-a-i-i." It was the beginning of a future that Leo, Moos, Jia, Finn, Zara, and Kai would now build together with their incredible creation.'
+    return "The individual tones began to coalesce, weaving together into a single, resonant sound. It was a voice taking its first breath, a moment that Leo, Moos, Jia, Finn, Zara, and Kai would remember for the rest of their lives."

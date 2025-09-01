@@ -1,7 +1,7 @@
 def get_name():
     return "Mies Haenen"
 
-def get_act_1_paragraph():
+def get_paragraph_act1():
     paragraph = (
         "The final wire clicked into place under the steady hand of Leo, "
         "as Moos and Jia watched the diagnostic screen with bated breath. "
@@ -11,7 +11,7 @@ def get_act_1_paragraph():
     )
     return paragraph
 
-def get_act_2_paragraph():
+def get_paragraph_act2():
     paragraph = (
         "The robot's optical sensors, dark moments before, now glowed with "
         "that same soft blue. Its gaze swept across the room, focusing on "
@@ -20,7 +20,7 @@ def get_act_2_paragraph():
     )
     return paragraph
 
-def get_act_3_paragraph():
+def get_paragraph_act3():
     paragraph = (
         "The individual tones began to coalesce, weaving together into a "
         "single, resonant sound. It was a voice taking its first breath, "

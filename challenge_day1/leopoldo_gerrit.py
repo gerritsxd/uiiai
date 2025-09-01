@@ -4,10 +4,10 @@ def get_name():
     return "Leopoldo Gerrit"
 
 def get_paragraph_act1():
-    return "Professor Alistair Finch stared at the pulsating artifact, its light casting long shadows across the lab. 'Evelyn, are you seeing this?' he murmured, adjusting his spectacles. Dr. Evelyn Reed, however, was already reaching for the containment field controls, a reckless grin spreading across her face."
+    return "The low hum of the arcane device filled the dusty laboratory. Professor Alistair Finch, polishing his spectacles, saw the glyphs on its surface begin to glow with an eerie light. He turned to his colleague, 'Dr. Evelyn Reed, I believe our moment has arrived.'"
 
 def get_paragraph_act2():
-    return "The energy surge knocked them both back. 'My calculations did not predict this!' Professor Alistair Finch exclaimed, scrambling to his feet. Dr. Evelyn Reed simply laughed, her eyes wide with excitement. 'That's the fun of discovery, Alistair! Now, let's see what it really does.'"
+    return "Suddenly, the device flared, projecting a holographic map onto the ceiling. It wasn't a map of Earth. 'Incredible,' Dr. Evelyn Reed whispered, her eyes tracing the alien constellations. Professor Alistair Finch, however, noticed a small, blinking icon in the corner of the projection—a countdown."
 
 def get_paragraph_act3():
-    return "As the light from the artifact subsided, it revealed a perfect, shimmering portal. Dr. Evelyn Reed took a step forward, but Professor Alistair Finch put a hand on her shoulder. 'We don't know what's on the other side,' he warned, his voice grave. 'And that,' she replied, turning to him with an unreadable expression, 'is a risk I'm willing to take.'"
+    return "'We have to shut it down,' Professor Alistair Finch urged, his voice tight with panic as the countdown ticked faster. But Dr. Evelyn Reed was already at the console, her fingers flying across the keys. 'Shut it down?' she countered, a wild look in her eyes. 'Alistair, I'm just getting it started.'"

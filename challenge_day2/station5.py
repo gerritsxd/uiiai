@@ -18,7 +18,6 @@ def solution_station_5(name: str) -> int:
         "baltasar": 3, "isar": 3, "jelle": 3, "nicolas": 3, "ipek": 3, 
         "juan": 3, "marfa": 3, "alissa": 3, "leopoldo": 3, "mies": 3, 
         "jiaying": 3, "kaixin": 3, "mai": 3, "sem": 3, "tibbe": 3,
-        # Note: 'david' and 'maria' from LT1/LT2 are overwritten here
         "david": 3, "maria": 3,
         
         # LT 4
@@ -26,19 +25,16 @@ def solution_station_5(name: str) -> int:
         "ekaterina": 4, "thessa": 4, "tongfei": 4, "yang": 4, "benedikt": 4, 
         "jan": 4, "nadee": 4, "osjah": 4, "tim": 4, "eliana": 4, "joana": 4, 
         "peilin": 4, "pija": 4, "wenhao": 4,
-        # Note: 'anna' from LT1 is overwritten here
         "anna": 4,
         
         # LT 5
         "afua": 5, "cristina": 5, "greta": 5, "jace": 5, "laura": 5, 
         "bassant": 5, "ivan": 5, "juriaan": 5, "kiavash": 5,
-        # Note: 'anna' from LT4 is overwritten here
         "anna": 5,
 
         # LT 6
         "keitaro": 6, "nohemi": 6, "norina": 6, "yifan": 6, "yinan": 6, 
         "luo": 6, "nikola": 6, "olesya": 6, "tom": 6,
-        # Note: 'sophie' from LT3 is overwritten here
         "sophie": 6,
     }
     

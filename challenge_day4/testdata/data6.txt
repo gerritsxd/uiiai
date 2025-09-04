@@ -9,3 +9,4 @@ Paula,middle,low,middle,low,low,low,low,2.4
 Ursula,super,good,good,low,low,super,super,3.4
 Ivy,low,low,good,super,middle,super,super,3.2
 Roger,good,low,low,low,super,super,super,3
+r,super,3
